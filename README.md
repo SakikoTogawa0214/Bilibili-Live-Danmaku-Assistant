@@ -2,16 +2,23 @@
 
 🚀 **一个轻量、高效、完美融合原生的 B站 直播间弹幕增强 Tampermonkey (油猴) 脚本。**
 
+一几一几一几一几一几一几一几一几一几一几一几一几
+
+
 集成了**聊天栏悬浮快捷键**、**全自动独轮车**、**本地防刷屏净化**以及**视频区右键原生菜单拦截**等四大核心功能。让你的直播间互动体验直接拉满，整活快人一步！
 看满区和老弥直播，想复制烂梗刷，结合6657的观看体验，使用了Gemini帮我开发，随手写的小东西，感谢DouyuEX作者提供的一些思路。
 
-给我老弥和满区点点关注
+给老弥和满区点点关注好吗？
+
 弥月Mizuki https://space.bilibili.com/1789460279
+
 灰泽满Hazel https://space.bilibili.com/1298779265
 
+清理绿冻🧹清理绿冻🧹清理绿冻🧹清理绿冻🧹清理绿冻🧹
+
 再次感谢DouyuEX的作者，能让我在6657爽喷玩出
-https://www.douyuex.com/
-https://github.com/qianjiachun/douyuEx
+[DouyuEX官网](https://www.douyuex.com/)
+[Github链接](https://github.com/qianjiachun/douyuEx)
 
 ---
 
@@ -56,7 +63,7 @@ https://github.com/qianjiachun/douyuEx
 ## ⚠️ 免责声明 (Disclaimer)
 
 1. 本脚本仅供前端技术学习、交流与浏览器 DOM 操作探讨，**请勿用于恶意刷屏、爆破直播间、人身攻击等违规行为**。
-2. 请遵守 [《bilibili 直播弹幕规范》](https://www.bilibili.com/)。由于高频发送弹幕被 B 站官方风控（如禁言、封号）的后果由使用者自行承担。
+2. 请遵守 [《bilibili 直播弹幕规范》](https://www.bilibili.com/blackboard/help.html)。由于高频发送弹幕被 B 站官方风控（如禁言、封号）的后果由使用者自行承担。
 3. 脚本免费开源，一切功能基于 B 站现有的前端 DOM 结构实现，若 B 站后续进行大版本重构导致脚本失效，随缘修复。
 
 ---
