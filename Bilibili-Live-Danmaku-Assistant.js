@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         B站直播间弹幕+1 & 独轮车 & 防刷屏
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  完美解决右键菜单只生效一次的问题（模拟原生闭合流程）
+// @name         Bilibili-Live-Danmaku-Assistant (B站直播间弹幕增强脚本)
+// @namespace    https://github.com/SakikoTogawa0214/Bilibili-Live-Danmaku-Assistant/tree/main
+// @version      1.1
+// @description  一个轻量、高效、完美融合原生的 B站 直播间弹幕增强 Tampermonkey (油猴) 脚本。
 // @author       SakikoTogawa0214
 // @match        https://live.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
