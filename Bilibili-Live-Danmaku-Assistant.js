@@ -7,6 +7,7 @@
 // @match        https://live.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        GM_addStyle
+// @license MIT
 // ==/UserScript==
 
 (function() {
