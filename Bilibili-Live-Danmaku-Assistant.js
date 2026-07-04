@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bilibili-Live-Danmaku-Assistant (B站直播间弹幕增强脚本)
 // @namespace    https://github.com/SakikoTogawa0214/Bilibili-Live-Danmaku-Assistant/tree/main
-// @version      1.1
+// @version      1.2
 // @description  一个轻量、高效、完美融合原生的 B站 直播间弹幕增强 Tampermonkey (油猴) 脚本。
 // @author       SakikoTogawa0214
 // @match        https://live.bilibili.com/*
@@ -117,7 +117,7 @@
     // ================= 3. 核心发送功能 =================
     function sendDanmaku(text) {
         const textarea = document.querySelector('textarea.chat-input') || document.querySelector('.chat-input');
-        const sendBtn = document.querySelector('.bottom-actions button');
+        const sendBtn = document.querySelector('.send-btn, .bottom-actions button');
         if (textarea && sendBtn) {
             textarea.value = text;
             textarea.dispatchEvent(new Event('input', { bubbles: true }));
